@@ -1,0 +1,18 @@
+table{
+    border-collapse: collapse;
+}
+.bas{
+    color:rgba(249,255,255,255) ;
+    background-color:rgba(66,127,239,255) ;
+    
+}
+.tek{
+    background-color:rgba(238,247,255,255) ;
+}
+.cut{
+    background-color: rgba(255,255,255,255);
+}
+.son{
+    background-color: rgba(66,127,239,255);
+    color: rgba(247,255,255,255);
+}
